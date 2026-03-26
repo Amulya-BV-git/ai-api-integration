@@ -1,0 +1,5 @@
+1. Groq         = Groq API
+2. Hugging face = Huggingface API
+3. cohere       = cohere API
+4. requests     = API calls 
+5. API keys     = authentication
